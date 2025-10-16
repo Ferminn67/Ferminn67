@@ -1,4 +1,3 @@
-
 # 👨‍💻 Eliseo Fermín - Desarrollador Full Stack Junior
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-blue?style=for-the-badge&logo=github)](https://github.com/Ferminn67)
@@ -8,7 +7,7 @@
 ## 🚀 Sobre Mí
 
 <div align="center">
-  <img src="https://github.com/Ferminn67/about-me/blob/main/Eliseo%20Fermin.png?raw=true" alt="Eliseo Fermín - Desarrollador Full Stack Junior" width="90%" style="border-radius: 20px; box-shadow: 0 8px 25px rgba(0,0,0,0.2); border: 4px solid #3a86ff; margin: 20px 0;">
+  <img src="https://raw.githubusercontent.com/Ferminn67/Ferminn67/ba896a51720c5887379057b2d3f2081457fc040e/Eliseo%20Fermin.png" alt="Eliseo Fermín - Desarrollador Full Stack Junior" width="90%" style="border-radius: 20px; box-shadow: 0 8px 25px rgba(0,0,0,0.2); border: 4px solid #3a86ff; margin: 20px 0;">
 </div>
 
 <br>
