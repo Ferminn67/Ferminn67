@@ -79,10 +79,10 @@ Soy un apasionado del desarrollo de software y la innovación tecnológica, con 
 
 | Habilidad | Nivel | Progreso |
 |-----------|-------|----------|
-| **Frontend Development** | 78% | ████████░░ |
-| **Backend Development** | 72% | ███████░░░ |
-| **Database Management** | 85% | █████████░ |
-| **Tools & DevOps** | 88% | █████████░ |
+| **Frontend Development** | 100% | ████████░░ |
+| **Backend Development** | 80% | ███████░░░ |
+| **Database Management** | 88% | █████████░ |
+| **Tools & DevOps** | 50% | █████████░ |
 
 <br>
 
@@ -90,7 +90,7 @@ Soy un apasionado del desarrollo de software y la innovación tecnológica, con 
 
 | Tecnología | Nivel |
 |------------|-------|
-| **JavaScript/React** | ⭐⭐⭐⭐☆ |
+| **JavaScript/React** | ⭐⭐⭐⭐⭐|
 | **Node.js/Express** | ⭐⭐⭐⭐☆ |
 | **MySQL/PostgreSQL** | ⭐⭐⭐⭐⭐ |
 | **Git/GitHub** | ⭐⭐⭐⭐⭐ |
