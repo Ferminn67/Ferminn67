@@ -64,6 +64,9 @@ Soy un apasionado del desarrollo de software y la innovación tecnológica, con 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Oracle VirtualBox](https://img.shields.io/badge/Oracle%20VirtualBox-183A61?style=for-the-badge&logo=VirtualBox&logoColor=white)
+![Microsoft Power Platform](https://img.shields.io/badge/Microsoft%20Power%20Platform-742774?style=for-the-badge&logo=Microsoft-Power-Platform&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
 
 ---
